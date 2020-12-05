@@ -10,7 +10,7 @@ Hello i'm Morteza senior android developer working on my custom project
 -  ⚡ Technologies: android
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mrmortezw">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmortezw&theme=gruvbox&show_icons=true" />
 </a>
 <a href="https://github.com/mrmortezw/gardenapp">
