@@ -1,6 +1,5 @@
-# Morteza
 
-#Hi 👋, 
+Hi 👋, 
 Hello i'm Morteza senior android developer working on my custom project
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/12104995/mortezw)](https://stackoverflow.com/users/12104995/mortezw)
