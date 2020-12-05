@@ -14,7 +14,7 @@ Hello i'm Morteza senior android developer working on my custom project
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmortezw&theme=gruvbox&show_icons=true" />
 </a>
 <a href="https://github.com/mrmortezw/gardenapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrmortezw&repo=gardenapp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrmortezw&repo=gardenapp&theme=gruvbox" />
 </a>
 
 
