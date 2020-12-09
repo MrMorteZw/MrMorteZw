@@ -9,15 +9,7 @@ Hello i'm Morteza senior android developer working on my custom project
 - 💬 Ask me about: just how develop android app
 -  ⚡ Technologies: android
 
-
-<a href="https://github.com/mrmortezw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmortezw&theme=gruvbox&show_icons=true" />
-</a>
-<a href="https://github.com/mrmortezw/gardenapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrmortezw&repo=gardenapp&theme=gruvbox" />
-</a>
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMorteZw&hide=html)
+![MorteZw's github stats](https://github-readme-stats.vercel.app/api?username=MrMorteZw&show_icons=true&count_private=true&line_height=40)
 
 
